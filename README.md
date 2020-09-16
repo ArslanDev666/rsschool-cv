@@ -1,1 +1,1 @@
-[Curriculum vitae](https://github.com/ArslanDev666/rsschool-cv/cv)
+[Curriculum vitae](https://arslandev666.github.io/rsschool-cv/cv)
