@@ -1,9 +1,6 @@
-
 # My Resume
 
-![header](https://arslandev666.github.io/rsschool-cv/assest/header.png)
-
-***
+![header](https://arslandev666.github.io/rsschool-cv/assets/header.png)
 
 ## I'm Pre-middle Frontend-Developer
 
@@ -44,7 +41,7 @@ Now in my free time I like to read books in the genre of fantasy and sometimes p
 ![Node.js](https://img.shields.io/badge/node_js-black?style=for-the-badge&logo=Node.js)
 ![express_JS](https://img.shields.io/badge/express_JS-black?style=for-the-badge)
 
-### Code examples  :octocat:[Github](https://github.com/ArslanDev666?tab=repositories)
+### Code examples  :paperclip:[Github](https://github.com/ArslanDev666?tab=repositories)
 
 ### Notes
 
