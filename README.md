@@ -1,0 +1,1 @@
+[Curriculum vitae](https://github.com/ArslanDev666/rsschool-cv/cv)
