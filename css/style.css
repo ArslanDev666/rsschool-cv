@@ -1,5 +1,5 @@
 /* Basic styles */
-* {
+* :not(ul) {
   margin: 0;
   padding: 0;
 }
@@ -74,6 +74,13 @@ body {
 }
 .about-me a:hover {
   text-decoration: none;
+}
+.about-me .contacts-list {
+  padding: 0;
+  list-style: none;
+}
+.about-me .contacts-list a {
+  font-weight: bold;
 }
 
 /* bottom footer on site */
