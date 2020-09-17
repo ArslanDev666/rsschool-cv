@@ -1,0 +1,19 @@
+/* top header on site */
+.header {
+  padding: 30px;
+
+  background: #111;
+  .avatar {
+    margin-right: 60px;
+
+    --size: 200px;
+    width: var(--size);
+    height: var(--size);
+
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  .description {
+    color: #fff;
+  }
+}
