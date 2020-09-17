@@ -75,6 +75,12 @@ body {
 .about-me a:hover {
   text-decoration: none;
 }
+.about-me .tool {
+  margin-right: 10px;
+}
+.about-me .tool:last-child {
+  margin-right: 0;
+}
 .about-me .contacts-list {
   padding: 0;
   list-style: none;
@@ -87,6 +93,7 @@ body {
 .footer {
   padding: 15px;
   background: #111;
+  text-align: center;
   color: #fff;
 }
 

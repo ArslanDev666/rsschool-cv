@@ -31,7 +31,12 @@
             text-decoration: none;
         }
     }
-
+    .tool {
+        margin-right: 10px;
+        &:last-child{
+            margin-right: 0;
+        }
+    }
     .contacts-list {
         padding: 0;
         list-style: none;
